@@ -1,0 +1,20 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:creator opf:role="aut" opf:file-as="Horowitz, Sara">Sara Horowitz</dc:creator>
+<dc:identifier opf:scheme="calibre" id="calibre_id">998eb59a-717e-464b-8088-815c43865548</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">998eb59a-717e-464b-8088-815c43865548</dc:identifier>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-12-14T18:30:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Amazingly, one-third of the American workforce is freelance&amp;#8212;that's 42 million people who have to wrestle with not just doing the work, but finding the work, then getting paid for the work, plus health care, taxes, setting up an office, marketing, and so on. Now help is here, and consultants, independent contractors, the self-employed, "solopreneurs," and everyone else living a freelancer's life will never be alone again but instead can be part of a strong and vibrant community.&lt;p&gt;Written by the authority on freelance working, Sara Horowitz, MacArthur "Genius" Fellow and founder of the national Freelancers Union and, most recently, the Freelancers Insurance Company, &lt;i&gt;The Freelancer's Bible&lt;/i&gt; will help those new to freelancing learn the ropes, and will help those who've been freelancing for a while grow and expand. It's the one-stop, all-encompassing guide to every practical detail and challenge of being a nimble, flexible, and successful freelancer: the three...</dc:description>
+        <dc:publisher>Workman Publishing Company</dc:publisher>
+        <dc:rights>All rights reserved</dc:rights>
+        <meta content="{&quot;Sara Horowitz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:title>The Freelancer's Bible</dc:title>
+<meta name="calibre:title_sort" content="Freelancer's Bible, The"/>
+<dc:language>eng</dc:language>
+</metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
