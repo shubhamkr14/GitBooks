@@ -1,0 +1,19 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:creator opf:role="aut" opf:file-as="Carnegie, Dale">Dale Carnegie</dc:creator>
+<dc:identifier opf:scheme="calibre" id="calibre_id">77a912f3-d52f-4296-819f-14aa7113bce5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77a912f3-d52f-4296-819f-14aa7113bce5</dc:identifier>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.9.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;font face="Segoe UI, sans-serif" size="2"&gt;&lt;b&gt;The success of Dale Carnegie &amp;amp; Associates lies in its timeless ability to redefine its basic message for the pressing issues of each succeeding business generation. The book speaks directly to the business world of the 1990s, with advice on surviving downsizing, mergers and fierce bottom line demands, negotiating the corporate differences and cross-cultural disparities of today's globalized economy. The book aims to develop and reinforce strong motivation and self-confidence among as ever-changing array of executves in the new flat organization.&lt;/b&gt;&lt;/font&gt;</dc:description>
+        <meta content="{&quot;Dale Carnegie&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:title>The Leader in You</dc:title>
+<meta name="calibre:title_sort" content="Leader in You, The"/>
+<dc:subject>Mobilism</dc:subject>
+<dc:language>eng</dc:language>
+</metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

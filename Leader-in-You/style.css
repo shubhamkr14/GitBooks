@@ -1,0 +1,351 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "Albertus Extra Bold";
+    font-weight: bold;
+    src: url(OEBPS/font1.ttf)
+    }
+@font-face {
+    font-family: "Aurora BdCn BT";
+    font-weight: bold;
+    src: url(OEBPS/font10.ttf)
+    }
+@font-face {
+    font-family: "MS Gothic";
+    src: url(OEBPS/font6.ttf)
+    }
+@font-face {
+    font-family: Arial;
+    src: url(OEBPS/font7.ttf)
+    }
+@font-face {
+    font-family: Calibri;
+    font-style: italic;
+    font-weight: bold;
+    src: url(OEBPS/font2.ttf)
+    }
+@font-face {
+    font-family: Calibri;
+    font-style: italic;
+    src: url(OEBPS/font5.ttf)
+    }
+@font-face {
+    font-family: Calibri;
+    font-weight: bold;
+    src: url(OEBPS/font4.ttf)
+    }
+@font-face {
+    font-family: Calibri;
+    src: url(OEBPS/font3.ttf)
+    }
+@font-face {
+    font-family: Cambria;
+    font-weight: bold;
+    src: url(OEBPS/font8.ttf)
+    }
+@font-face {
+    font-family: Wingdings;
+    src: url(OEBPS/font9.ttf)
+    }
+
+.calibre {
+    display: block;
+    font-size: 1em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.class {
+    color: #215868;
+    display: block;
+    font-family: "Aurora BdCn BT", sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 2.438%
+    }
+.class1 {
+    text-indent: 2.438%
+    }
+.class2 {
+    color: #215868;
+    display: block;
+    font-family: "Albertus Extra Bold", sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 2.438%
+    }
+.class3 {
+    display: block;
+    margin-bottom: 0.6em;
+    margin-left: 2.435%;
+    text-align: center
+    }
+.class4 {
+    color: black;
+    font-family: Calibri, sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    height: auto;
+    line-height: 1.2;
+    width: 34.635%
+    }
+.class5 {
+    display: block;
+    font-family: Cambria, serif;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.215;
+    margin-top: 1.18518em;
+    text-align: center
+    }
+.class6 {
+    display: block;
+    font-family: Calibri, sans-serif;
+    line-height: 1.2
+    }
+.class7 {
+    display: block;
+    text-align: justify
+    }
+.class8 {
+    display: block;
+    font-family: Calibri, sans-serif;
+    line-height: 1.2;
+    text-indent: 2.434%
+    }
+.class9 {
+    display: block;
+    text-align: justify;
+    text-indent: 2.434%
+    }
+.class10 {
+    text-indent: 2.434%
+    }
+.class11 {
+    display: block;
+    font-family: Calibri, sans-serif;
+    line-height: 1.2;
+    margin-bottom: 1.2em;
+    text-align: justify;
+    text-indent: 2.434%
+    }
+.class12 {
+    font-weight: bold;
+    text-indent: 2.434%
+    }
+.class13 {
+    display: block;
+    font-family: Cambria, serif;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.215;
+    margin-top: 0.711109em;
+    text-align: center
+    }
+.class14 {
+    display: block;
+    font-family: Calibri, sans-serif;
+    font-size: 0.83333em;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify
+    }
+.class15 {
+    display: block;
+    font-family: Calibri, sans-serif;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: right
+    }
+.class16 {
+    display: block;
+    font-family: Calibri, sans-serif;
+    font-size: 0.83333em;
+    line-height: 1.2;
+    text-align: justify
+    }
+.class17 {
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.215
+    }
+.class18 {
+    font-size: 1.2em;
+    line-height: 1.2
+    }
+.class19 {
+    display: block;
+    font-family: Calibri, sans-serif;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 2.434%
+    }
+.class20 {
+    display: block;
+    font-family: Calibri, sans-serif;
+    line-height: 1.2;
+    margin-bottom: 2.4em;
+    text-align: justify;
+    text-indent: 2.434%
+    }
+.class21 {
+    display: block;
+    font-family: Calibri, sans-serif;
+    font-size: 0.83333em;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: justify
+    }
+.class22 {
+    display: block;
+    font-family: Calibri, sans-serif;
+    line-height: 1.2;
+    text-align: justify
+    }
+.class23 {
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 2.434%
+    }
+.class24 {
+    font-family: Calibri, sans-serif;
+    text-indent: 2.434%
+    }
+.class25 {
+    font-family: Arial, sans-serif;
+    text-indent: 2.434%
+    }
+.class26 {
+    background-color: yellow;
+    color: black;
+    display: block;
+    font-family: Calibri, sans-serif;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.219
+    }
+.class27 {
+    display: block;
+    text-align: center
+    }
+.class28 {
+    display: block;
+    font-family: Wingdings, serif;
+    line-height: 1.2;
+    margin-bottom: 2.4em;
+    text-align: right
+    }
+.class29 {
+    display: block;
+    font-family: Calibri, sans-serif;
+    font-style: italic;
+    line-height: 1.2;
+    text-align: justify
+    }
+.class30 {
+    display: block;
+    font-family: Calibri, sans-serif;
+    font-size: 0.83333em;
+    line-height: 1.2;
+    text-align: center
+    }
+.class31 {
+    background-color: yellow;
+    font-size: 1.55em;
+    font-weight: bold;
+    line-height: 1.219
+    }
+.class32 {
+    font-style: italic;
+    text-indent: 2.434%
+    }
+.class33 {
+    display: block;
+    font-family: Wingdings, serif;
+    line-height: 1.2;
+    text-align: right
+    }
+.class34 {
+    display: block;
+    font-family: Cambria, serif;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.215;
+    margin-top: 1.18519em;
+    text-align: center
+    }
+.class35 {
+    display: block;
+    font-family: Cambria, serif;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.215;
+    margin-top: 0.688891em;
+    text-align: center
+    }
+.class36 {
+    display: block;
+    font-family: Calibri, sans-serif;
+    line-height: 1.2;
+    margin-top: 0.7125em;
+    text-align: justify
+    }
+.class37 {
+    display: block;
+    font-family: Cambria, serif;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.219;
+    margin-top: 0.635104em
+    }
+.class38 {
+    background-color: yellow;
+    color: black;
+    display: block;
+    font-family: Calibri, sans-serif;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.class39 {
+    font-family: "MS Gothic", monospace;
+    text-indent: 2.434%
+    }
+.class40 {
+    display: block;
+    font-family: Cambria, serif;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.219;
+    margin-top: 0.635104em;
+    text-indent: 2.434%
+    }
+.class41 {
+    display: block;
+    font-family: Cambria, serif;
+    font-size: 1.66667em;
+    font-weight: bold;
+    line-height: 1.215;
+    margin-top: 0.493826em
+    }
+.class42 {
+    display: block;
+    font-family: Calibri, sans-serif;
+    line-height: 1.2;
+    text-align: justify;
+    text-indent: 2.994%
+    }
+.class43 {
+    text-indent: 2.994%
+    }
+
