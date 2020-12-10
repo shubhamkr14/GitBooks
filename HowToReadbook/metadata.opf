@@ -1,0 +1,19 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:creator opf:role="aut" opf:file-as="Van Doren, Charles &amp; Adler, Mortimer J.">Van Doren, Charles</dc:creator>
+<dc:creator opf:role="aut">Mortimer J. Adler</dc:creator>
+<dc:identifier opf:scheme="calibre" id="calibre_id">0d0a6871-18e9-4cc3-8496-d39f3a63ab01</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d0a6871-18e9-4cc3-8496-d39f3a63ab01</dc:identifier>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-10T00:00:00+00:00</dc:date>
+        <dc:publisher>Touchstone</dc:publisher>
+        <meta content="{&quot;Van Doren, Charles&quot;: &quot;&quot;, &quot;Mortimer J. Adler&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <dc:title>How to Read a Book (A Touchstone book)</dc:title>
+<meta name="calibre:title_sort" content="How to Read a Book (A Touchstone book)"/>
+<dc:language>eng</dc:language>
+</metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
